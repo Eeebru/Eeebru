@@ -15,7 +15,7 @@ Here are some items I am using.
 
 ✨ GitHub Stats ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eebru-gzy&count_private=true&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeebru&count_private=true&show_icons=true&theme=merko)
 
 ---
 
