@@ -7,9 +7,6 @@ an engineer's life overall easier. I am especailly interested in Python, Java, K
 Here are some items I am using.
 
 - [Helm](https://github.com/helm/helm)
-<!-- - [Branch Deploy](https://github.com/GrantBirki/branch-deploy) 
-- [Garden](https://github.com/garden-io/garden)
-- [Act](https://github.com/nektos/act)-->
 - [GitHub Action](https://docs.github.com/en/actions)
 - [Argo CD](https://argo-cd.readthedocs.io/en/stable/)
 - [Ansible](https://www.ansible.com/)
@@ -34,3 +31,7 @@ Here are some items I am using.
 - Security
 - Linux
 - Golang
+
+<!-- - [Branch Deploy](https://github.com/GrantBirki/branch-deploy) 
+- [Garden](https://github.com/garden-io/garden)
+- [Act](https://github.com/nektos/act)-->
